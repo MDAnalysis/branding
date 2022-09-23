@@ -21,4 +21,13 @@ MDAnalysis theme
 
 ## Documentation colors
 
-TODO (see User Guide CSS)
+* MDAnalysis orange: #FF9200 
+* MDAnalysis gray: #808080
+* MDAnalysis white: #FFFFFF
+* MDAnalysis black: #000000
+* Very light orange: #FFEBD0
+* Code orange: #ca6500
+* RTD dark grey: #343131
+* RTD light grey: #e6e6e6
+
+The [Userr Guide CSS theme](https://github.com/MDAnalysis/UserGuide/blob/develop/doc/source/_static/custom.css) has some others for coloured elements, where we needed to differentiate between notes, warnings, etc. -- they have some pastel red/orange/yellows (backgrounds) and darker red/orange/yellows (text).
