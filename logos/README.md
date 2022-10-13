@@ -10,3 +10,16 @@ The typeface is "ZAG Bold" from https://www.dafont.com/de/zag.font
 [MDAnalysis/UserGuide#11](https://github.com/MDAnalysis/UserGuide/pull/11#issuecomment-535663213)).
 
 
+Original logos are in the PDF files
+* `mdanalysis-logo.pdf` (rectangle)
+* `mdanalysis-logo_square` (square)
+
+Either logo can be used to represent the project. Use the one that
+fits better.
+
+Rastered versions at different resolution were generated from the
+original PDFs and provided in the *rastered/* directory. 
+* resolutions: 72 ppi, 150 ppi, 300 ppi, 600 ppi
+* background: white, transparent
+
+
