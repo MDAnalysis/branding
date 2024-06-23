@@ -16,10 +16,6 @@ was created by Lily Wang (@lilyminium) in 2024 as
 a derivative of the original MDAnalysis Atom logo. 
 It may only be used under the same license and rules as the original logo.
 
-The [MDAKits template logo documents](MDAKits/MDAKit-templates/)
-were created by Lily Wang (@lilyminium) in 2024
-and are released freely under [CC-BY-4.0](LICENSE).
-
 ## Original logo files
 
 Original logos are in the PDF files
