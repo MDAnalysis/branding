@@ -9,6 +9,12 @@ The typeface is "ZAG Bold" from https://www.dafont.com/de/zag.font
 (see
 [MDAnalysis/UserGuide#11](https://github.com/MDAnalysis/UserGuide/pull/11#issuecomment-535663213)).
 
+MDAKits logos are contained in the MDAKits directory.
+
+The [MDAKits registry logo](MDAKits/MDAKits-registry/)
+was created by Lily Wang (@lilyminium) in 2024 as
+a derivative of the original MDAnalysis Atom logo. 
+It may only be used under the same license and rules as the original logo.
 
 ## Original logo files
 
