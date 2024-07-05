@@ -25,7 +25,7 @@ The typeface is "ZAG Bold" from https://www.dafont.com/de/zag.font
 
 Original logos are in the PDF files
 * `mdanalysis-logo.pdf` (rectangle)
-* `mdanalysis-logo_square` (square)
+* `mdanalysis-logo_square.pdf` (square)
 
 Either logo can be used to represent the project. Use the one that
 fits better.
@@ -57,6 +57,9 @@ Registry](https://mdakits.mdanalysis.org/).
 
 Logo files are available in the
 [logos/MDAKits/MDAKits-registry](MDAKits/MDAKits-registry) directory.
+
+
+
 
 
 
