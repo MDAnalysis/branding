@@ -1,16 +1,21 @@
-The MDAnalysis 'Atom' logo was created by Christian Beckstein and is
+The MDAnalysis 'Atom' logo was created by Christian Beckstein
+(@beckstein) in 2011.
 
-Copyright (c) 2011 Christian Beckstein
-
-MDAnalysis Logo 'Atom' by Christian Beckstein is licensed under a
-Creative Commons Attribution-NoDerivs 3.0 Unported License.
-To view a copy of this license, visit
-http://creativecommons.org/licenses/by-nd/3.0/ or send a letter to Creative
-Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+(Prior to 2024-06-21, the MDAnalysis 'Atom' logo was licensed under a
+Creative Commons Attribution-NoDerivs 3.0 Unported License. From this
+date forward the logo and its derivatives may only be used under the
+NumFOCUS trademark guidelines
+https://numfocus.org/trademark-guidelines.)
 
 The logo is contained in the file 'mdanalysis-logo.png'.
 
 Derivatives in the files 'mdanalysis-logo-127x55.png',
 'mdanalysis-logo-200x150.png', 'mdanalysis-logo.ico' were created for
-inclusion in MDAnalysis and on websites related to MDAnalysis. They
-are distributed under the same license as the 'Atom' logo.
+inclusion in MDAnalysis and on websites related to MDAnalysis.
+
+
+
+The 'MDAKits Registry' logo and its derivatives were created by Lily
+Wang (@lilyminium) in 2024 by incorporating the 'Atom' logo into
+original art. The 'MDAKits Registry' logo files are stored in the
+directory `MDAKits/MDAKits-registry`.
