@@ -1,13 +1,34 @@
 # Style Guide for MDAnalysis
 
 ## Name
-When referring to the project we always capitalize as **MDAnalysis** (not ~~MDanalysis~~ or ~~Mdanalysis~~ or ~~mdanalysis~~ or ~~MDANALYSIS~~).
+When referring to the project we always capitalize as 
+
+* ✔️ MDAnalysis
+
+and _not_
+* ✖️ ~~MDanalysis~~
+* ✖️ ~~Mdanalysis~~
+* ✖️ ~~mdanalysis~~
+* ✖️ ~~MDANALYSIS~~
 
 In logo art we _may_ break the name as
-```
-MD
-Analysis
-```
+
+ MD<br/>
+ Analysis
+
+
+*MDAnalysis* is a proper noun when we refer to the project/organization or the library itself so it is typeset in the standard typeface of the surrounding text. It is _not_ set in `monospace` typeface.  It _may_ be set in italics (*MDAnalysis*) or another common style (e.g., sans serif) to visually distinguish software names.
+
+* ✔️ MDAnalysis
+* ✔️ *MDAnalysis*
+* ✖️ ~~`MDAnalysis`~~
+* ✔️ "The MDAnalysis library is one of the most used Python-based packages for the analysis of molecular dynamics simulations."
+
+If we refer to the importable Python package of the MDAnalysis library or if we write code then we do typeset in monospace (if available):
+
+* ✔️ "Most scripts start with `import MDAnalysis as mda`."
+* ✔️ "Importing the `MDAnalysis` package is a form of linking as far as the GPL is concerned."
+* ✖️ ~~"When loading the MDAnalysis package you can alias it to the short form mda."~~
 
 ## Colors
 ### Logo Colors
