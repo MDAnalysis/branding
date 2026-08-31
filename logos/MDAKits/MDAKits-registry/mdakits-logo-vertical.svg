@@ -7,7 +7,7 @@
    viewBox="0 0 190 190.00001"
    version="1.1"
    id="svg1"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    sodipodi:docname="mdakits-logo-vertical.svg"
    inkscape:export-filename="mdakits-logo-vertical-2244x2244.pdf"
    inkscape:export-xdpi="300"
@@ -26,13 +26,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.4204826"
-     inkscape:cx="135.55852"
-     inkscape:cy="458.9964"
+     inkscape:zoom="0.5946522"
+     inkscape:cx="556.6279"
+     inkscape:cy="258.97491"
      inkscape:window-width="1512"
      inkscape:window-height="1027"
-     inkscape:window-x="309"
-     inkscape:window-y="25"
+     inkscape:window-x="858"
+     inkscape:window-y="248"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -108,6 +108,20 @@
          style="display:inline;fill:#ff9200;fill-opacity:1;stroke:#ff9200;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          d="m 141.62682,86.404156 -1.2936,4.568248 a 18.240373,18.240373 0 0 0 -4.01381,1.698144 l -4.18147,-2.335946 -2.44597,2.44574 -0.20181,0.202046 -2.44597,2.445737 2.34118,4.191034 a 18.240373,18.240373 0 0 0 -1.68448,3.998781 l -4.58715,1.29907 v 3.45915 0.28542 3.45916 l 4.58579,1.29838 a 18.240373,18.240373 0 0 0 1.68425,4.0022 l -2.33959,4.18807 2.44597,2.44597 0.20181,0.20205 2.44597,2.44573 4.17645,-2.33321 a 18.240373,18.240373 0 0 0 4.02043,1.70111 l 1.292,4.56255 h 3.45893 0.28564 3.45893 l 1.28859,-4.55094 a 18.240373,18.240373 0 0 0 4.04867,-1.69882 l 4.15163,2.31931 2.44596,-2.44573 0.20182,-0.20205 2.44597,-2.44597 -2.31431,-4.14251 a 18.240373,18.240373 0 0 0 1.71249,-4.06302 l 4.53226,-1.28312 v -3.45916 -0.28542 -3.45915 l -4.52132,-1.28039 a 18.240373,18.240373 0 0 0 -1.70247,-4.103109 l 2.29335,-4.105386 -2.44597,-2.445737 -0.20182,-0.202046 -2.44596,-2.44574 -4.11587,2.299272 a 18.240373,18.240373 0 0 0 -4.08648,-1.686526 l -1.28654,-4.543192 h -3.45893 -0.28564 z m 3.62681,9.234215 a 12.883256,12.883256 0 0 1 12.88335,12.883349 12.883256,12.883256 0 0 1 -12.88335,12.88312 12.883256,12.883256 0 0 1 -12.88312,-12.88312 12.883256,12.883256 0 0 1 12.88312,-12.883349 z" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:9.45122px;line-height:1.25;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke-width:0.236281"
+       x="90.215088"
+       y="130.88126"
+       id="text13"
+       inkscape:transform-center-x="-11.216869"
+       inkscape:transform-center-y="4.9453142"
+       transform="scale(1.0998583,0.90920801)"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         x="90.215088"
+         y="130.88126"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Zag Bold';-inkscape-font-specification:'Zag Bold, ';fill:#808080;fill-opacity:1;stroke-width:0.236281">®</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -121,8 +135,8 @@
        style="font-size:192px;font-family:'Zag Bold';-inkscape-font-specification:'Zag Bold, ';white-space:pre;shape-inside:url(#rect2);display:inline;fill:#000000;fill-opacity:1;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"><tspan
          x="90.808594"
          y="749.88354"
-         id="tspan4">MDA<tspan
+         id="tspan2">MDA<tspan
    style="fill:#ff9200"
-   id="tspan3">KITS</tspan></tspan></text>
+   id="tspan1">KITS</tspan></tspan></text>
   </g>
 </svg>
