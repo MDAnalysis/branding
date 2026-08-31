@@ -1,4 +1,4 @@
-# MDAnalysis Project Logos and Logo Art
+# MDAnalysis<sup>®</sup> Project Logos and Logo Art
 
 The `logos` directory contains logos and logo art that identifies
 MDAnalysis. These files **should only be used inside the MDAnalysis

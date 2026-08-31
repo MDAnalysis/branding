@@ -1,4 +1,4 @@
-# MDAnalysis® Branding Resources
+# MDAnalysis<sup>®</sup> Branding Resources
 
 Resources for MDAnalysis look and feel.
 
@@ -8,7 +8,7 @@ Resources for MDAnalysis look and feel.
 
 ## Licensing
 
-**MDAnalysis**® is a registered trademark in the U.S. and is owned by [NumFOCUS, Inc.](https://numfocus.org/). 
+**MDAnalysis**<sup>®</sup> is a registered trademark in the U.S. and is owned by [NumFOCUS, Inc.](https://numfocus.org/). 
 
 Note that *special licenses* apply to all materials in this repository. 
 In the absence of an explicit license, content is *not licensed for any use outside the

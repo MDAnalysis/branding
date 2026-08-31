@@ -14,10 +14,10 @@ and _not_
 In logo art we _may_ break the name as
 
  MD<br/>
- Analysis<sub>®</sub>
+ Analysis<sup>®</sup>
 
 
-*MDAnalysis®* is a proper noun when we refer to the project/organization or the library itself so it is typeset in the standard typeface of the surrounding text. It is _not_ set in `monospace` typeface.  It _may_ be set in italics (*MDAnalysis*) or another common style (e.g., sans serif) to visually distinguish software names.
+*MDAnalysis<sup>®</sup>* is a proper noun when we refer to the project/organization or the library itself so it is typeset in the standard typeface of the surrounding text. It is _not_ set in `monospace` typeface.  It _may_ be set in italics (*MDAnalysis*) or another common style (e.g., sans serif) to visually distinguish software names.
 
 * ✔️ MDAnalysis
 * ✔️ *MDAnalysis*
