@@ -7,7 +7,7 @@
    width="1706.6667"
    height="192"
    viewBox="0 0 1706.6667 192"
-   sodipodi:docname="mdanalysis-banner-1280x144.svg"
+   sodipodi:docname="mdanalysis-banner-alt-1280x144.svg"
    inkscape:export-filename="..\OneDrive\Desktop\NEWLOGOS\test.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -181,14 +181,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:export-bgcolor="#ffffffff"
      inkscape:zoom="0.67207026"
-     inkscape:cx="683.70828"
-     inkscape:cy="-15.623366"
+     inkscape:cx="758.84923"
+     inkscape:cy="-91.50829"
      inkscape:window-width="2400"
      inkscape:window-height="1494"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer-MC0">
+     inkscape:current-layer="layer-MC1">
     <inkscape:page
        x="0"
        y="0"
@@ -199,6 +199,18 @@
        margin="0 0 0 7.3333335"
        bleed="0" />
   </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 3">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="rect1-8"
+       width="1853.9728"
+       height="352.64169"
+       x="-10.5"
+       y="-109.5" />
+  </g>
   <g
      id="layer-MC0"
      inkscape:groupmode="layer"
@@ -3366,54 +3378,16 @@
          style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:172px;font-family:'Zag Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="0"
          y="0">MD</tspan></text>
-    <path
-       id="path569"
-       d="M 363.498,124.408 334.948,12.265 h 14.963 c 1.548,6.364 3.784,14.965 10.491,41.108 v 0 h 28.896 l 10.664,-41.108 h 15.308 l -29.068,112.487 c -1.547,5.503 -6.88,9.288 -11.179,9.288 v 0 c -4.472,0 -9.46,-3.44 -11.525,-9.632 m 9.46,-14.104 1.376,11.695 h 1.376 l 1.204,-11.695 8.773,-42.827 h -21.844 c 3.267,13.76 5.675,29.068 9.115,42.827"
-       transform="matrix(1.3333333,0,0,-1.3333333,0,192)"
-       style="fill:url(#linearGradient569);stroke:none" />
-    <path
-       id="path571"
-       d="M 425.935,123.032 V 12.265 h 14.62 l -0.689,82.904 -4.127,21.155 2.063,0.516 c 1.548,-4.472 4.988,-21.156 8.085,-29.412 v 0 c 8.943,-23.392 17.199,-47.815 25.798,-68.971 v 0 c 1.721,-3.784 6.364,-6.192 9.804,-6.192 v 0 c 4.645,0 9.116,3.268 9.116,9.804 v 0 110.595 H 476.33 l 0.688,-83.419 4.988,-22.704 h -1.032 l -35.432,100.103 0.172,-0.344 c -0.859,4.3 -6.02,6.879 -10.147,6.879 v 0 c -4.989,0 -9.804,-3.783 -9.632,-10.147"
-       transform="matrix(1.3333333,0,0,-1.3333333,0,192)"
-       style="fill:url(#linearGradient571);stroke:none" />
-    <path
-       id="path573"
-       d="M 531.371,124.408 502.819,12.265 h 14.965 c 1.547,6.364 3.782,14.965 10.491,41.108 v 0 h 28.895 l 10.664,-41.108 h 15.307 l -29.067,112.487 c -1.548,5.503 -6.879,9.288 -11.18,9.288 v 0 c -4.471,0 -9.459,-3.44 -11.523,-9.632 m 9.459,-14.104 1.376,11.695 h 1.376 l 1.204,-11.695 8.772,-42.827 h -21.843 c 3.267,13.76 5.676,29.068 9.115,42.827"
-       transform="matrix(1.3333333,0,0,-1.3333333,0,192)"
-       style="fill:url(#linearGradient573);stroke:none" />
-    <path
-       id="path575"
-       d="M 593.806,132.664 V 23.273 c 0,-6.708 6.021,-11.352 11.869,-11.008 v 0 h 44.375 v 14.276 h -41.623 l -0.173,106.123 z"
-       transform="matrix(1.3333333,0,0,-1.3333333,0,192)"
-       style="fill:url(#linearGradient575);stroke:none" />
-    <path
-       id="path577"
-       d="m 685.482,132.664 c -3.784,-8.945 -15.307,-39.216 -19.263,-48.848 v 0 c -0.344,-1.547 -1.205,-8.084 -1.376,-9.46 v 0 l -1.548,9.288 c -4.472,11.18 -14.448,37.668 -19.436,49.02 v 0 h -15.135 c 4.815,-11.868 12.212,-29.412 17.715,-41.796 v 0 c 3.956,-9.116 7.568,-17.715 11.18,-26.315 v 0 -52.288 h 14.275 v 51.943 l 29.068,68.456 z"
-       transform="matrix(1.3333333,0,0,-1.3333333,0,192)"
-       style="fill:url(#linearGradient577);stroke:none" />
-    <path
-       id="path579"
-       d="M 703.715,105.144 V 95.169 C 703.887,72.98 719.023,69.54 733.987,66.616 v 0 c 9.289,-1.548 18.921,-3.784 18.921,-14.104 v 0 -12.383 c 0,-9.46 -8.946,-14.62 -17.717,-14.62 v 0 c -8.944,0 -17.544,6.535 -17.544,19.435 v 0 h -13.932 c -0.172,-22.359 15.137,-33.882 31.476,-33.882 v 0 c 15.652,0 31.82,9.804 31.82,29.067 v 0 12.383 c 0,20.985 -16.168,25.284 -30.1,28.208 v 0 c -8.428,1.72 -19.264,4.989 -19.264,14.449 v 0 9.975 c 0,9.46 8.773,14.62 17.716,14.62 v 0 c 8.771,0 17.545,-6.708 17.545,-19.436 v 0 h 14.103 c 0,22.187 -15.996,33.712 -31.648,33.712 v 0 c -16.168,0 -31.648,-9.804 -31.648,-28.896"
-       transform="matrix(1.3333333,0,0,-1.3333333,0,192)"
-       style="fill:url(#linearGradient579);stroke:none" />
-    <path
-       id="path581"
-       d="m 782.661,12.265 h 14.277 v 120.398 h -14.277 z"
-       transform="matrix(1.3333333,0,0,-1.3333333,0,192)"
-       style="fill:url(#linearGradient581);stroke:none" />
-    <path
-       id="path583"
-       d="M 812.931,105.144 V 95.169 C 813.103,72.98 828.239,69.54 843.203,66.616 v 0 c 9.288,-1.548 18.92,-3.784 18.92,-14.104 v 0 -12.383 c 0,-9.46 -8.945,-14.62 -17.716,-14.62 v 0 c -8.944,0 -17.544,6.535 -17.544,19.435 v 0 h -13.932 c -0.172,-22.359 15.137,-33.882 31.476,-33.882 v 0 c 15.652,0 31.82,9.804 31.82,29.067 v 0 12.383 c 0,20.985 -16.168,25.284 -30.1,28.208 v 0 c -8.428,1.72 -19.264,4.989 -19.264,14.449 v 0 9.975 c 0,9.46 8.772,14.62 17.716,14.62 v 0 c 8.771,0 17.544,-6.708 17.544,-19.436 v 0 h 14.104 c 0,22.187 -15.996,33.712 -31.648,33.712 v 0 c -16.168,0 -31.648,-9.804 -31.648,-28.896"
-       transform="matrix(1.3333333,0,0,-1.3333333,0,192)"
-       style="fill:url(#linearGradient583);stroke:none" />
     <text
        id="text583"
        xml:space="preserve"
-       transform="matrix(1.3333333,0,0,1.3333333,448.88933,175.64587)"><tspan
+       x="448.88934"
+       y="175.64587"
+       style="font-size:16px;stroke-width:1.33333"><tspan
          id="tspan583"
-         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:172px;font-family:'Zag Bold';writing-mode:lr-tb;fill:#ff9200;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="0"
-         dx="0 0 -3.096 0 -28.208 -6.02"
-         y="0">ANALYSIS</tspan></text>
+         style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:229.333px;font-family:'Zag Bold';writing-mode:lr-tb;fill:#ff9200;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+         x="448.88934"
+         dx="0"
+         y="175.64587">ANALYSIS</tspan></text>
   </g>
 </svg>
